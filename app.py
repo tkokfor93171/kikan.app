@@ -1,3 +1,8 @@
+pip install plotly
+pip install yfinance
+pip install mplfinance
+pip install -U selenium
+
 import streamlit as st
 from datetime import datetime
 import pandas as pd
