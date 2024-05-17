@@ -3,3 +3,5 @@ pip install yfinance
 pip install mplfinance
 pip install -U selenium
 pip install streamlit
+
+streamlit run app.py
